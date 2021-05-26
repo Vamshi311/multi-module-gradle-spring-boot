@@ -1,5 +1,6 @@
 # multi-module-gradle-spring-boot
-Sample multi-module spring boot application with gradle
+Sample multi-module spring boot application with gradle 
+
 This project has three modules
 1. library - which has a service with single method that says hello world!!!.
 2. another-library - basically empty module
