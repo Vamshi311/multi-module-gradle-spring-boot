@@ -1,0 +1,4 @@
+rootProject.name = 'multi-module-gradle-spring-boot'
+include 'library'
+include 'application'
+include 'another-library'
